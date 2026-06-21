@@ -1,0 +1,58 @@
+2026-06-19 03:18:26 | INFO     | MedicalAI | Logger 'MedicalAI' initialized — 2026-06-19 03:18:26
+2026-06-19 03:18:26 | INFO     | MedicalAI | === Starting model training ===
+2026-06-19 03:18:26 | INFO     | MedicalAI | Dataset cleaned: 164 rows, 41 diseases
+2026-06-19 03:18:26 | INFO     | MedicalAI | Dataset loaded: (164, 6)
+2026-06-19 03:18:26 | DEBUG    | MedicalAI | Encoded features: 83 symptoms × 164 rows
+2026-06-19 03:18:43 | INFO     | MedicalAI | Logger 'MedicalAI' initialized — 2026-06-19 03:18:43
+2026-06-19 03:18:43 | INFO     | MedicalAI | === Starting model training ===
+2026-06-19 03:18:43 | INFO     | MedicalAI | Dataset cleaned: 164 rows, 41 diseases
+2026-06-19 03:18:43 | INFO     | MedicalAI | Dataset loaded: (164, 6)
+2026-06-19 03:18:43 | DEBUG    | MedicalAI | Encoded features: 83 symptoms × 164 rows
+2026-06-19 03:18:43 | INFO     | MedicalAI | Train: (114, 83), Test: (50, 83)
+2026-06-19 03:18:43 | INFO     | MedicalAI | Random Forest → accuracy=1.0
+2026-06-19 03:18:44 | INFO     | MedicalAI | XGBoost → accuracy=0.94
+2026-06-19 03:18:44 | INFO     | MedicalAI | Random Forest selected as best model.
+2026-06-19 03:18:44 | INFO     | MedicalAI | All artefacts saved to model/
+2026-06-19 03:18:44 | INFO     | MedicalAI | Best model: Random Forest — Accuracy: 100.00%
+2026-06-19 03:19:06 | INFO     | MedicalAI | Logger 'MedicalAI' initialized — 2026-06-19 03:19:06
+2026-06-19 03:19:08 | INFO     | MedicalAI | Model, encoder, and symptom list loaded successfully.
+2026-06-19 03:19:08 | INFO     | MedicalAI | Prediction: Fungal infection (49.3%) for symptoms: ['itching', 'skin_rash', 'nodal_skin_eruptions']
+2026-06-19 03:19:33 | INFO     | MedicalAI | Logger 'MedicalAI' initialized — 2026-06-19 03:19:33
+2026-06-19 03:19:35 | INFO     | MedicalAI | Model, encoder, and symptom list loaded successfully.
+2026-06-19 03:19:35 | INFO     | MedicalAI | Prediction: Diabetes (93.3%) for symptoms: ['fatigue', 'weight_loss', 'restlessness', 'lethargy', 'irregular_sugar_level']
+2026-06-19 08:09:58 | INFO     | MedicalAI | Logger 'MedicalAI' initialized — 2026-06-19 08:09:58
+2026-06-19 08:10:01 | INFO     | MedicalAI | === Starting model training ===
+2026-06-19 08:10:01 | INFO     | MedicalAI | Dataset cleaned: 140 rows, 14 diseases
+2026-06-19 08:10:01 | INFO     | MedicalAI | Dataset loaded: (140, 9)
+2026-06-19 08:10:01 | DEBUG    | MedicalAI | Encoded features: 60 symptoms × 140 rows
+2026-06-19 08:10:01 | INFO     | MedicalAI | Train: (98, 60), Test: (42, 60)
+2026-06-19 08:10:01 | INFO     | MedicalAI | Random Forest → accuracy=1.0
+2026-06-19 08:10:01 | INFO     | MedicalAI | XGBoost → accuracy=1.0
+2026-06-19 08:10:01 | INFO     | MedicalAI | Random Forest selected as best model.
+2026-06-19 08:10:01 | INFO     | MedicalAI | All artefacts saved to model/
+2026-06-19 08:10:01 | INFO     | MedicalAI | Best model: Random Forest — Accuracy: 100.00%
+2026-06-19 08:10:08 | INFO     | MedicalAI | Logger 'MedicalAI' initialized — 2026-06-19 08:10:08
+2026-06-19 08:10:09 | INFO     | MedicalAI | Model, encoder, and symptom list loaded successfully.
+2026-06-19 08:10:09 | INFO     | MedicalAI | Prediction: Malaria (51.3%) for symptoms: ['fever', 'chills', 'headache', 'sweating', 'nausea']
+2026-06-19 08:10:45 | INFO     | MedicalAI | Logger 'MedicalAI' initialized — 2026-06-19 08:10:45
+2026-06-19 08:10:45 | INFO     | MedicalAI | === Starting model training ===
+2026-06-19 08:10:45 | INFO     | MedicalAI | Dataset cleaned: 225 rows, 31 diseases
+2026-06-19 08:10:45 | INFO     | MedicalAI | Dataset loaded: (225, 9)
+2026-06-19 08:10:45 | DEBUG    | MedicalAI | Encoded features: 106 symptoms × 225 rows
+2026-06-19 08:10:45 | INFO     | MedicalAI | Train: (157, 106), Test: (68, 106)
+2026-06-19 08:10:45 | INFO     | MedicalAI | Random Forest → accuracy=1.0
+2026-06-19 08:10:46 | INFO     | MedicalAI | XGBoost → accuracy=1.0
+2026-06-19 08:10:46 | INFO     | MedicalAI | Random Forest selected as best model.
+2026-06-19 08:10:46 | INFO     | MedicalAI | All artefacts saved to model/
+2026-06-19 08:10:46 | INFO     | MedicalAI | Best model: Random Forest — Accuracy: 100.00%
+2026-06-19 08:11:01 | INFO     | MedicalAI | Logger 'MedicalAI' initialized — 2026-06-19 08:11:01
+2026-06-19 08:11:01 | INFO     | MedicalAI | Model, encoder, and symptom list loaded successfully.
+2026-06-19 08:11:43 | INFO     | MedicalAI | Logger 'MedicalAI' initialized — 2026-06-19 08:11:43
+2026-06-19 08:11:43 | INFO     | MedicalAI | Model, encoder, and symptom list loaded successfully.
+2026-06-19 08:11:44 | INFO     | MedicalAI | Prediction: Malaria (40.0%) for symptoms: ['fever', 'chills', 'headache', 'sweating', 'nausea']
+2026-06-19 14:08:11 | INFO     | MedicalAI | Logger 'MedicalAI' initialized — 2026-06-19 14:08:11
+2026-06-19 14:08:16 | INFO     | MedicalAI | Model, encoder, and symptom list loaded successfully.
+2026-06-19 14:08:17 | INFO     | MedicalAI | App loaded — resources cached.
+2026-06-19 14:09:16 | INFO     | MedicalAI | App loaded — resources cached.
+2026-06-19 14:09:56 | INFO     | MedicalAI | Prediction request — symptoms: ['body_ache', 'anxiety', 'back_pain', 'blackheads']
+2026-06-19 14:09:57 | INFO     | MedicalAI | Prediction: Influenza (16.7%) for symptoms: ['body_ache', 'anxiety', 'back_pain', 'blackheads']

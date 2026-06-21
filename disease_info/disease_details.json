@@ -1,0 +1,330 @@
+{
+  "Fungal infection": {
+    "description": "A fungal infection is caused by fungi — microscopic organisms that can live on skin, hair, nails, and mucous membranes. They are generally not life-threatening but can cause significant discomfort.",
+    "causes": "Direct contact with infected person or animal, sharing personal items like towels or combs, walking barefoot in moist public areas, weakened immune system.",
+    "symptoms": "Itching, skin rashes, redness, scaling, cracking of skin, nodal skin eruptions, watering from eyes, dischromic patches.",
+    "prevention": "Keep skin clean and dry, avoid sharing personal items, wear breathable fabrics, maintain good hygiene, treat infections promptly.",
+    "doctor": "Dermatologist",
+    "severity": "Low"
+  },
+  "Allergy": {
+    "description": "An allergy is an immune system response to a foreign substance that is not typically harmful to the body. These foreign substances are called allergens and can include pollen, bee venom, or pet dander.",
+    "causes": "Exposure to allergens such as pollen, dust mites, animal dander, certain foods, insect stings, medications, or latex.",
+    "symptoms": "Continuous sneezing, shivering, chills, watering from eyes, skin rash, itching, runny nose, shortness of breath.",
+    "prevention": "Identify and avoid known allergens, use air purifiers, keep windows closed during high pollen season, use hypoallergenic products.",
+    "doctor": "Allergist / Immunologist",
+    "severity": "Low"
+  },
+  "GERD": {
+    "description": "Gastroesophageal reflux disease (GERD) is a chronic digestive disorder where stomach acid frequently flows back into the esophagus, irritating its lining.",
+    "causes": "Hiatal hernia, obesity, pregnancy, smoking, certain medications, eating large meals or lying down after meals.",
+    "symptoms": "Stomach pain, acidity, ulcers on tongue, vomiting, cough, heartburn, regurgitation, difficulty swallowing.",
+    "prevention": "Maintain healthy weight, eat smaller meals, avoid trigger foods, do not lie down after eating, elevate head of bed.",
+    "doctor": "Gastroenterologist",
+    "severity": "Medium"
+  },
+  "Chronic cholestasis": {
+    "description": "Chronic cholestasis is a liver condition where bile cannot flow from the liver to the duodenum, causing a buildup of bile acids in the liver and blood.",
+    "causes": "Primary biliary cholangitis, primary sclerosing cholangitis, intrahepatic cholestasis, medications, infections.",
+    "symptoms": "Itching, vomiting, yellowish skin, nausea, loss of appetite, dark urine, pale stools, fatigue.",
+    "prevention": "Avoid medications that can cause liver damage, limit alcohol consumption, maintain healthy weight, regular liver function tests.",
+    "doctor": "Hepatologist",
+    "severity": "High"
+  },
+  "Drug Reaction": {
+    "description": "A drug reaction is an adverse response to a medication that can range from mild to severe. It can occur with prescription drugs, over-the-counter medications, or supplements.",
+    "causes": "Allergic response to medication, medication overdose, drug interactions, genetic factors affecting drug metabolism.",
+    "symptoms": "Itching, skin rash, stomach pain, burning micturition, spotting urination, hives, swelling, difficulty breathing.",
+    "prevention": "Inform doctors of all medications and allergies, follow prescribed dosages, avoid known allergens, carry medical alert information.",
+    "doctor": "General Physician / Allergist",
+    "severity": "Medium"
+  },
+  "Peptic ulcer disease": {
+    "description": "Peptic ulcer disease involves open sores that develop on the inner lining of the stomach and the upper portion of the small intestine.",
+    "causes": "H. pylori bacterial infection, regular use of NSAIDs, excessive alcohol consumption, smoking, stress.",
+    "symptoms": "Vomiting, indigestion, loss of appetite, abdominal pain, passage of gases, burning stomach pain, nausea.",
+    "prevention": "Avoid NSAIDs, limit alcohol, quit smoking, manage stress, eat regular meals, avoid spicy foods.",
+    "doctor": "Gastroenterologist",
+    "severity": "Medium"
+  },
+  "AIDS": {
+    "description": "AIDS (Acquired Immunodeficiency Syndrome) is the most severe phase of HIV infection. People with AIDS have such badly damaged immune systems that they get an increasing number of severe illnesses.",
+    "causes": "Infection with HIV virus through unprotected sexual contact, sharing needles, blood transfusions, mother to child during pregnancy or breastfeeding.",
+    "symptoms": "Muscle wasting, patches in throat, high fever, fatigue, extra-marital contacts history, rapid weight loss, recurring infections.",
+    "prevention": "Practice safe sex, use clean needles, get tested regularly, take antiretroviral therapy if HIV positive, avoid blood-to-blood contact.",
+    "doctor": "Infectious Disease Specialist",
+    "severity": "Critical"
+  },
+  "Diabetes": {
+    "description": "Diabetes is a chronic disease that occurs when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces.",
+    "causes": "Genetic factors, obesity, sedentary lifestyle, poor diet, autoimmune destruction of insulin-producing cells.",
+    "symptoms": "Fatigue, weight loss, restlessness, lethargy, irregular sugar level, increased thirst, frequent urination, blurred vision.",
+    "prevention": "Maintain healthy weight, exercise regularly, eat balanced diet, avoid sugary foods, regular blood sugar monitoring.",
+    "doctor": "Endocrinologist",
+    "severity": "High"
+  },
+  "Gastroenteritis": {
+    "description": "Gastroenteritis is inflammation of the stomach and intestines, typically resulting from bacterial toxins, viral infection, or contaminated food or water.",
+    "causes": "Viral infections (norovirus, rotavirus), bacterial contamination, food poisoning, parasitic infections.",
+    "symptoms": "Vomiting, sunken eyes, dehydration, diarrhoea, stomach pain, nausea, fever, muscle aches.",
+    "prevention": "Wash hands frequently, eat properly cooked food, drink clean water, avoid close contact with infected persons.",
+    "doctor": "Gastroenterologist",
+    "severity": "Medium"
+  },
+  "Bronchial Asthma": {
+    "description": "Bronchial asthma is a long-term inflammatory disease of the airways that makes breathing difficult. It causes recurring periods of wheezing, chest tightness, shortness of breath.",
+    "causes": "Allergens, air pollutants, respiratory infections, physical activity, cold air, medications like aspirin.",
+    "symptoms": "Fatigue, cough, high fever, breathlessness, family history, wheezing, chest tightness, shortness of breath.",
+    "prevention": "Identify and avoid triggers, use prescribed inhalers, maintain healthy weight, exercise regularly, avoid smoking.",
+    "doctor": "Pulmonologist",
+    "severity": "High"
+  },
+  "Hypertension": {
+    "description": "Hypertension (high blood pressure) is a condition in which the force of blood against artery walls is consistently too high, potentially causing health problems like heart disease.",
+    "causes": "Age, family history, obesity, lack of physical activity, excess salt intake, alcohol, smoking, stress.",
+    "symptoms": "Headache, chest pain, dizziness, loss of balance, lack of concentration, nosebleed, irregular heartbeat.",
+    "prevention": "Reduce sodium intake, exercise regularly, maintain healthy weight, limit alcohol, stop smoking, manage stress.",
+    "doctor": "Cardiologist",
+    "severity": "High"
+  },
+  "Migraine": {
+    "description": "A migraine is a neurological condition that can cause multiple symptoms including intense, debilitating headaches, nausea, vomiting, and extreme sensitivity to light and sound.",
+    "causes": "Hormonal changes, stress, sensory stimuli, sleep changes, physical factors, food additives, medications.",
+    "symptoms": "Acidity, indigestion, headache, blurred and distorted vision, excessive hunger, nausea, sensitivity to light.",
+    "prevention": "Identify and avoid triggers, maintain regular sleep, exercise regularly, manage stress, stay hydrated.",
+    "doctor": "Neurologist",
+    "severity": "Medium"
+  },
+  "Cervical spondylosis": {
+    "description": "Cervical spondylosis is age-related wear affecting the spinal disks in your neck. As the disks dehydrate and shrink, signs of osteoarthritis develop.",
+    "causes": "Aging, bone spurs, dehydrated spinal disks, herniated disks, injury, ligament stiffness, overuse.",
+    "symptoms": "Back pain, weakness in limbs, neck pain, dizziness, loss of balance, grinding sensation, muscle spasms.",
+    "prevention": "Maintain good posture, exercise neck muscles, avoid prolonged sitting, ergonomic workstation setup.",
+    "doctor": "Orthopedic Surgeon / Neurologist",
+    "severity": "Medium"
+  },
+  "Paralysis (brain hemorrhage)": {
+    "description": "Brain hemorrhage is bleeding in or around the brain, which can be a type of stroke. It occurs when an artery bursts, causing localized bleeding in the surrounding tissues.",
+    "causes": "High blood pressure, aneurysm, arteriovenous malformation, blood clotting disorders, head injury.",
+    "symptoms": "Vomiting, headache, weakness in limbs, altered sensorium, stiff neck, sudden severe headache, vision problems.",
+    "prevention": "Control blood pressure, treat blood clotting disorders, avoid head injuries, manage risk factors for stroke.",
+    "doctor": "Neurologist / Neurosurgeon",
+    "severity": "Critical"
+  },
+  "Jaundice": {
+    "description": "Jaundice is a condition where the skin, whites of the eyes, and mucous membranes turn yellow due to high levels of bilirubin, a yellow-orange bile pigment.",
+    "causes": "Liver disease, bile duct obstruction, hemolytic anemia, hepatitis, alcoholic liver disease, certain medications.",
+    "symptoms": "Itching, vomiting, fatigue, weight loss, high fever, yellow skin, dark urine, pale stools.",
+    "prevention": "Vaccination against hepatitis, avoid alcohol, maintain healthy weight, avoid risky behaviors that can lead to hepatitis.",
+    "doctor": "Hepatologist / Gastroenterologist",
+    "severity": "High"
+  },
+  "Malaria": {
+    "description": "Malaria is a life-threatening disease caused by Plasmodium parasites that are transmitted to people through the bites of infected female Anopheles mosquitoes.",
+    "causes": "Plasmodium parasite transmitted by infected Anopheles mosquitoes, rarely through blood transfusions or shared needles.",
+    "symptoms": "Chills, vomiting, high fever, sweating, headache, fatigue, nausea, muscle pain.",
+    "prevention": "Use mosquito repellents, sleep under mosquito nets, take antimalarial medications, wear protective clothing.",
+    "doctor": "Infectious Disease Specialist",
+    "severity": "High"
+  },
+  "Chicken pox": {
+    "description": "Chickenpox is a highly contagious viral infection caused by the varicella-zoster virus, characterized by an itchy rash with small, fluid-filled blisters.",
+    "causes": "Varicella-zoster virus spread through direct contact with the rash, coughing, or sneezing.",
+    "symptoms": "Itching, skin rash, fatigue, lethargy, high fever, loss of appetite, headache, fluid-filled blisters.",
+    "prevention": "Vaccination, avoid contact with infected persons, maintain good hygiene, do not share personal items.",
+    "doctor": "General Physician / Dermatologist",
+    "severity": "Medium"
+  },
+  "Dengue": {
+    "description": "Dengue fever is a mosquito-borne tropical disease caused by the dengue virus. Symptoms typically begin three to fourteen days after infection.",
+    "causes": "Dengue virus transmitted by the bite of Aedes mosquitoes, primarily Aedes aegypti.",
+    "symptoms": "Skin rash, chills, joint pain, vomiting, fatigue, high fever, severe headache, pain behind the eyes.",
+    "prevention": "Eliminate mosquito breeding sites, use mosquito repellents, wear protective clothing, use mosquito nets.",
+    "doctor": "Infectious Disease Specialist",
+    "severity": "High"
+  },
+  "Typhoid": {
+    "description": "Typhoid fever is a bacterial infection caused by Salmonella typhi that can spread throughout the body, affecting many organs.",
+    "causes": "Salmonella typhi bacteria spread through contaminated food or water, poor sanitation.",
+    "symptoms": "Chills, vomiting, fatigue, high fever, headache, abdominal pain, rose-colored spots, constipation or diarrhea.",
+    "prevention": "Vaccination, drink safe water, eat properly cooked food, practice good hand hygiene, avoid street food.",
+    "doctor": "Infectious Disease Specialist",
+    "severity": "High"
+  },
+  "Hepatitis A": {
+    "description": "Hepatitis A is a highly contagious liver infection caused by the hepatitis A virus. It ranges in severity from a mild illness to a severe one.",
+    "causes": "Hepatitis A virus spread through contaminated food or water, close contact with infected persons.",
+    "symptoms": "Joint pain, vomiting, yellowish skin, dark urine, nausea, fatigue, loss of appetite, abdominal pain.",
+    "prevention": "Vaccination, wash hands thoroughly, avoid contaminated food and water, practice good hygiene.",
+    "doctor": "Hepatologist",
+    "severity": "Medium"
+  },
+  "Hepatitis B": {
+    "description": "Hepatitis B is a serious liver infection caused by the hepatitis B virus (HBV). It can become a chronic condition leading to liver failure, liver cancer, or cirrhosis.",
+    "causes": "HBV transmitted through infected blood, sexual contact, sharing needles, mother to newborn.",
+    "symptoms": "Itching, fatigue, lethargy, yellowish skin, dark urine, abdominal pain, nausea, loss of appetite.",
+    "prevention": "Vaccination, practice safe sex, avoid sharing needles, ensure blood products are tested.",
+    "doctor": "Hepatologist",
+    "severity": "High"
+  },
+  "Hepatitis C": {
+    "description": "Hepatitis C is a viral infection that causes liver inflammation, sometimes leading to serious liver damage. The hepatitis C virus spreads through contaminated blood.",
+    "causes": "HCV transmitted through sharing needles, blood transfusions before 1992, sexual contact, mother to child.",
+    "symptoms": "Fatigue, yellowish skin, nausea, loss of appetite, family history, bleeding easily, bruising easily.",
+    "prevention": "Avoid sharing needles, ensure sterile medical equipment, practice safe sex, avoid sharing personal items.",
+    "doctor": "Hepatologist",
+    "severity": "High"
+  },
+  "Hepatitis D": {
+    "description": "Hepatitis D is a liver disease caused by the hepatitis D virus (HDV). It only infects people who are already infected with the hepatitis B virus.",
+    "causes": "HDV transmitted through infected blood or sexual contact, only occurs in those with hepatitis B.",
+    "symptoms": "Joint pain, vomiting, fatigue, yellowish skin, dark urine, abdominal pain, nausea.",
+    "prevention": "Hepatitis B vaccination protects against HDV, avoid sharing needles, practice safe sex.",
+    "doctor": "Hepatologist",
+    "severity": "High"
+  },
+  "Hepatitis E": {
+    "description": "Hepatitis E is a liver disease caused by infection with a virus known as hepatitis E virus (HEV). It is transmitted through contaminated water.",
+    "causes": "HEV spread through contaminated water and food, especially in areas with poor sanitation.",
+    "symptoms": "Joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, loss of appetite.",
+    "prevention": "Drink safe water, practice good food hygiene, avoid raw or undercooked food from potentially contaminated areas.",
+    "doctor": "Hepatologist",
+    "severity": "High"
+  },
+  "Alcoholic hepatitis": {
+    "description": "Alcoholic hepatitis is an inflammation of the liver caused by drinking excessive amounts of alcohol over an extended period of time.",
+    "causes": "Heavy, long-term alcohol consumption that damages liver cells and causes inflammation.",
+    "symptoms": "Vomiting, yellowish skin, abdominal pain, swelling of stomach, history of alcohol consumption, fatigue, nausea.",
+    "prevention": "Limit or avoid alcohol consumption, maintain healthy weight, get vaccinated for hepatitis, eat a balanced diet.",
+    "doctor": "Hepatologist",
+    "severity": "High"
+  },
+  "Tuberculosis": {
+    "description": "Tuberculosis (TB) is an infectious disease usually caused by Mycobacterium tuberculosis bacteria that mainly affects the lungs.",
+    "causes": "Mycobacterium tuberculosis bacteria spread through air when infected person coughs, speaks, or sneezes.",
+    "symptoms": "Chills, vomiting, fatigue, weight loss, cough, night sweats, fever, blood in sputum.",
+    "prevention": "BCG vaccination, proper ventilation, regular testing for high-risk groups, complete treatment course.",
+    "doctor": "Pulmonologist / Infectious Disease Specialist",
+    "severity": "High"
+  },
+  "Common Cold": {
+    "description": "The common cold is a viral infection of the upper respiratory tract. The most common cause is rhinovirus, but many different viruses can cause a cold.",
+    "causes": "Rhinovirus and other viruses spread through droplets from coughs, sneezes, or hand-to-hand contact.",
+    "symptoms": "Continuous sneezing, chills, fatigue, cough, high fever, runny nose, sore throat, body aches.",
+    "prevention": "Wash hands frequently, avoid close contact with sick people, avoid touching face, boost immune system.",
+    "doctor": "General Physician",
+    "severity": "Low"
+  },
+  "Pneumonia": {
+    "description": "Pneumonia is an infection that inflames the air sacs in one or both lungs, which may fill with fluid or pus.",
+    "causes": "Bacteria (most commonly Streptococcus pneumoniae), viruses, or fungi. Can also result from aspiration.",
+    "symptoms": "Chills, fatigue, cough, high fever, breathlessness, chest pain, nausea, vomiting.",
+    "prevention": "Vaccination, good hygiene, avoid smoking, strengthen immune system, treat respiratory infections promptly.",
+    "doctor": "Pulmonologist",
+    "severity": "High"
+  },
+  "Dimorphic hemmorhoids(piles)": {
+    "description": "Hemorrhoids are swollen veins in the lower rectum and anus. They are very common, especially during pregnancy and after childbirth.",
+    "causes": "Straining during bowel movements, chronic constipation or diarrhea, low-fiber diet, pregnancy, obesity.",
+    "symptoms": "Constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus, swelling.",
+    "prevention": "High-fiber diet, stay hydrated, avoid straining, exercise regularly, avoid prolonged sitting on toilet.",
+    "doctor": "Proctologist / Colorectal Surgeon",
+    "severity": "Medium"
+  },
+  "Heart attack": {
+    "description": "A heart attack occurs when blood flow to part of the heart muscle is blocked, usually by a blood clot. This can permanently damage or destroy heart muscle.",
+    "causes": "Coronary artery disease, high blood pressure, high cholesterol, smoking, diabetes, obesity.",
+    "symptoms": "Vomiting, breathlessness, sweating, chest pain, fatigue, arm pain, jaw pain, light-headedness.",
+    "prevention": "Healthy diet, regular exercise, quit smoking, control blood pressure and cholesterol, manage diabetes.",
+    "doctor": "Cardiologist",
+    "severity": "Critical"
+  },
+  "Varicose veins": {
+    "description": "Varicose veins are enlarged, swollen, and twisting veins, often appearing blue or dark purple. They happen when faulty valves in the veins allow blood to flow in the wrong direction.",
+    "causes": "Age, pregnancy, family history, standing or sitting for long periods, obesity.",
+    "symptoms": "Fatigue, cramps, bruising, obesity, swollen legs, aching pain in legs, muscle cramping, swelling.",
+    "prevention": "Exercise regularly, maintain healthy weight, avoid prolonged standing, elevate legs, wear compression stockings.",
+    "doctor": "Vascular Surgeon",
+    "severity": "Low"
+  },
+  "Hypothyroidism": {
+    "description": "Hypothyroidism occurs when the thyroid gland does not produce enough thyroid hormone. It can cause a number of symptoms such as fatigue, weight gain, and feeling cold.",
+    "causes": "Hashimoto's disease, thyroid surgery, radiation therapy, medications, pregnancy, iodine deficiency.",
+    "symptoms": "Fatigue, weight gain, cold hands and feet, constipation, mood swings, puffy face, muscle weakness.",
+    "prevention": "Adequate iodine intake, regular thyroid function tests, avoid excessive goitrogen consumption.",
+    "doctor": "Endocrinologist",
+    "severity": "Medium"
+  },
+  "Hyperthyroidism": {
+    "description": "Hyperthyroidism occurs when the thyroid gland produces more thyroid hormone than the body needs, speeding up many bodily functions.",
+    "causes": "Graves' disease, thyroid nodules, thyroiditis, excessive iodine intake, too much thyroid medication.",
+    "symptoms": "Fatigue, mood swings, weight loss, restlessness, sweating, rapid heartbeat, tremors, heat sensitivity.",
+    "prevention": "Regular thyroid check-ups, manage stress, adequate iodine intake but not excessive.",
+    "doctor": "Endocrinologist",
+    "severity": "Medium"
+  },
+  "Hypoglycemia": {
+    "description": "Hypoglycemia is a condition where blood sugar (glucose) level drops below the normal range, causing symptoms like shakiness, anxiety, and difficulty concentrating.",
+    "causes": "Diabetes medications, excessive alcohol, critical illness, hormonal deficiencies, skipping meals.",
+    "symptoms": "Fatigue, restlessness, sweating, excessive hunger, dizziness, shakiness, confusion, irritability.",
+    "prevention": "Regular meal schedules, monitor blood glucose levels, adjust medications with doctor supervision, carry glucose tablets.",
+    "doctor": "Endocrinologist",
+    "severity": "Medium"
+  },
+  "Osteoarthritis": {
+    "description": "Osteoarthritis is the most common form of arthritis, affecting millions of people worldwide. It occurs when the protective cartilage on the ends of bones wears down over time.",
+    "causes": "Age, joint injury, obesity, genetics, bone deformities, repetitive stress on joints.",
+    "symptoms": "Joint pain, neck pain, knee pain, hip joint pain, swelling joints, stiffness, reduced range of motion.",
+    "prevention": "Maintain healthy weight, exercise regularly, protect joints from injury, control blood sugar levels.",
+    "doctor": "Orthopedic Surgeon / Rheumatologist",
+    "severity": "Medium"
+  },
+  "Arthritis": {
+    "description": "Arthritis is inflammation of one or more joints, causing pain and stiffness that can worsen with age. The most common types are osteoarthritis and rheumatoid arthritis.",
+    "causes": "Family history, age, previous joint injury, obesity, certain autoimmune conditions.",
+    "symptoms": "Muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking, fatigue, reduced range of motion.",
+    "prevention": "Exercise regularly, maintain healthy weight, protect joints, eat omega-3 rich diet, avoid smoking.",
+    "doctor": "Rheumatologist",
+    "severity": "Medium"
+  },
+  "(vertigo) Paroxysmal Positional Vertigo": {
+    "description": "Benign paroxysmal positional vertigo is characterized by brief episodes of mild to intense dizziness. It is usually triggered by specific changes in head position.",
+    "causes": "Displacement of calcium crystals in inner ear, head injury, inner ear disorders, prolonged bed rest.",
+    "symptoms": "Vomiting, headache, nausea, spinning movements, loss of balance, dizziness, unsteady feeling.",
+    "prevention": "Avoid sudden head movements, sleep with head slightly elevated, canalith repositioning procedures.",
+    "doctor": "ENT Specialist / Neurologist",
+    "severity": "Low"
+  },
+  "Acne": {
+    "description": "Acne vulgaris is a chronic skin disease involving blockage and inflammation of pilosebaceous units. It is the most common skin disorder in the world.",
+    "causes": "Excess oil production, bacteria, hormonal changes, certain medications, diet, stress.",
+    "symptoms": "Skin rash, pus-filled pimples, blackheads, scarring, skin peeling, whiteheads, oily skin.",
+    "prevention": "Regular face washing, avoid heavy cosmetics, eat healthy diet, avoid touching face, manage stress.",
+    "doctor": "Dermatologist",
+    "severity": "Low"
+  },
+  "Urinary tract infection": {
+    "description": "A urinary tract infection (UTI) is an infection in any part of the urinary system — kidneys, ureters, bladder, and urethra. Most infections involve the lower urinary tract.",
+    "causes": "Bacteria, usually E. coli, entering the urinary tract. Risk factors include female anatomy, sexual activity, certain contraceptives.",
+    "symptoms": "Burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine, fatigue, cloudy urine.",
+    "prevention": "Stay hydrated, urinate after intercourse, wipe front to back, avoid irritating products, empty bladder regularly.",
+    "doctor": "Urologist",
+    "severity": "Medium"
+  },
+  "Psoriasis": {
+    "description": "Psoriasis is a skin disease that causes red, itchy scaly patches, most commonly on the knees, elbows, trunk, and scalp. It is a chronic long-lasting disease.",
+    "causes": "Immune system triggers, genetics, infections, injuries to skin, smoking, alcohol, stress.",
+    "symptoms": "Skin rash, joint pain, skin peeling, silver-like dusting, small dents in nails, dry cracked skin.",
+    "prevention": "Avoid triggers, moisturize skin, manage stress, avoid smoking and alcohol, protect skin from injury.",
+    "doctor": "Dermatologist",
+    "severity": "Medium"
+  },
+  "Impetigo": {
+    "description": "Impetigo is a common and highly contagious skin infection that mainly affects infants and children. It appears as reddish sores on the face.",
+    "causes": "Staphylococcus aureus or Streptococcus pyogenes bacteria entering through skin breaks.",
+    "symptoms": "Skin rash, high fever, blister, red sore around nose, yellow crust ooze, itching, swollen lymph nodes.",
+    "prevention": "Good hand hygiene, keep wounds clean, avoid sharing personal items, treat cuts and scrapes promptly.",
+    "doctor": "Dermatologist",
+    "severity": "Low"
+  }
+}
